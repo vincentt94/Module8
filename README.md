@@ -16,7 +16,7 @@
   In order to install the application, please download and upload all appriorate files from the Github to your remote device.  Once all the files are uploaded, navigate to the terminal and type 'npm init -y' to initalize the node program module.  Once a package.json is created, go  into the file and add  ' "type": "module" '  after the description.  Now we can go back into the terminal and install the packages.  Type "npm i" and  a node_modules folder will be created and populated.  From there with all the correct code, we can now run the command " npm run start"  to begin the application.
 
   ## Usage
-  To see an example of this program, please visit this link: https://drive.google.com/file/d/1y2zAFguhISDjpunXb9O00yEhNTQwqMbF/preview
+  To see an example of this program, please visit this link: https://www.youtube.com/watch?v=PR1DL2zGIJo
 
   ## Licenses
   https://www.gnu.org/licenses/gpl-3.0
